@@ -1,0 +1,9 @@
+Learn Laravel with Livewire, Jetsream and Tailwind 
+https://www.itsolutionstuff.com/post/laravel-9-livewire-crud-using-jetstream-tailwind-cssexample.html
+https://santrikoding.com/laravel-livewire-spa-installasi
+
+All Password User is rahasia123 
+
+# Running Project
+- php artisan serve 
+- npm run dev
