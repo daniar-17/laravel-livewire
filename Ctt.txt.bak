@@ -4,8 +4,6 @@ https://santrikoding.com/laravel-livewire-spa-installasi
 
 All Password User is rahasia123 
 
-Name Repository in GitHub : laravel-livewire
-
 # Running Project
 - php artisan serve 
 - npm run dev
